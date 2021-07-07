@@ -1,0 +1,7 @@
+package com.mateus.ahundredOfJavaBasic.day001;
+
+public class HowToExecuteProgramJava {
+	public static void main(String[] args) {
+		System.out.println("Hey, Day 001 of Java Basic!");
+	}
+}

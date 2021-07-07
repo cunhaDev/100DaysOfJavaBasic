@@ -1,0 +1,19 @@
+package com.mateus.ahundredOfJavaBasic.day001;
+
+/**
+ * do you know how Java is compiled behind the IDE?
+ * @author Mateus Cunha - Junior Java Developer
+ */
+
+public class HowToExecuteProgramJava {
+	public static void main(String[] args) {
+		System.out.println("Hey, Day 001 of Java Basic!");
+	}
+}
+
+/**
+ * When you create a Class inside an IDE,
+ * java generates a file with the extension .java which we call ByteCode.
+ * example: you create Class Person by IDE, from Java create Person.java file of type bytecode.
+ * 
+ */
