@@ -11,10 +11,10 @@ public class ModificadoresDeAcesso {
 	/** Acesso restrito fora da classe, pode ser acessada pelos seus Get e Sets */
 	private String privada;
 	
-	/** Acesso restrito para as classes que não são Filhas */
+	/** pode ser acessado por classes do mesmo pacote e tambem por suas filhas*/
 	protected String protegida;
 	
-	/** Acesso publico */
+	/** pode ser acessado por classes do mesmo pacote */
 	String modificadorDefault;
 
 }
