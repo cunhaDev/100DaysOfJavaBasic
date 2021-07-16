@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class EstruturaDeDecisaoSwitch {
 
-	private static final String DiaSemana = "Quarta";
-
 	public static void main(String[] args) {
 
 		Scanner diaEscolha = new Scanner(System.in);
